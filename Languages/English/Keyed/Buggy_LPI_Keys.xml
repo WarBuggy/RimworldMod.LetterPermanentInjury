@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<LPI_Letter_Label>{0}: Permanent Injury</LPI_Letter_Label>
+	<LPI_Letter_Text>{0} {1}'s {2} suffered a permanent injury.</LPI_Letter_Text>
+
+	<LPI_Option_Mod_Name>Letter on Permanent Injury</LPI_Option_Mod_Name>
+	<LPI_Option>Alert permanent injuries on</LPI_Option>
+	<LPI_Option_Colonist>Colonists</LPI_Option_Colonist>
+	<LPI_Option_Prisoner>Prisoners</LPI_Option_Prisoner>
+	<LPI_Option_Pet>Pets</LPI_Option_Pet>
+	<LPI_Option_Debug>Log debug messages</LPI_Option_Debug>
+</LanguageData>

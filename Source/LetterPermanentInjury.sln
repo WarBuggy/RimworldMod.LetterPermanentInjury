@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterPermanentInjury", "LetterPermanentInjury.csproj", "{1B8CB20A-1579-45EA-939B-23471E52CE2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B8CB20A-1579-45EA-939B-23471E52CE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8CB20A-1579-45EA-939B-23471E52CE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8CB20A-1579-45EA-939B-23471E52CE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8CB20A-1579-45EA-939B-23471E52CE2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1743441-FDBD-4B78-B49E-E4B975527A9F}
+	EndGlobalSection
+EndGlobal
